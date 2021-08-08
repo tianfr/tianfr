@@ -18,28 +18,12 @@ Here are some ideas to get you started:
 <!--### Stay Hungry, Stay Foolish.-->
 
 
-Here is my [Profile](https://tianfr.github.io/about/).
+- Here is my [Profile](https://tianfr.github.io/about/).
 
-We go about our daily lives understanding almost nothing of the world.
+- 🤔 I’m looking for Ph.D. positions in computer vision or self-supervised learning. If you are interested in my background and have some available positions, please let me know!!!
+- 🔭 I’m currently working in self-supervised learning, at Megvii Video Research group.
+- 🖋️ If you have any question about computer vision or deep learning, please feel free to contact me.
 
-We give little thought of the machinery that generates the sunlight and makes life possible.
+tianfr@stu.xjtu.edu.cn
 
-To the gravity that glues us to the earth that would otherwise send us spinning off into space.
 
-Or to the atoms that which we are made.. and on who’s stability we fundamentally depend.
-
-Few of us spend much time wondering why nature is the way it is,
-
-Where the cosmos came from,
-
-Whether it was always there.
-
-If time will one day flow backward,
-
-Or whether there are ultimate limits to what humans can know.
-
-What is the smallest piece of matter.
-
-Why we remember the past and not the future.
-
-And  **why there is a universe.**
