@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--### Stay Hungry, Stay Foolish.-->
 
 
-- Here is my [Profile](https://github.com/tianfr/tianfr/blob/master/PS_Tian%20Fengrui_2022_2_19_en.pdf).
+- Here is my [Profile](https://tianfr.github.io/about/).
 
 - 🤔 I’m looking for Ph.D. positions in computer vision or self-supervised learning. If you are interested in my background and have some available positions, please let me know!!!
 - 🔭 I’m currently working as an intern at SenseTime Research started from 2022.3, supervised by [Jifeng Dai](https://jifengdai.org/) and [Xizhou Zhu](https://scholar.google.com.hk/citations?user=02RXI00AAAAJ&hl=zh-CN).
