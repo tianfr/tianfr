@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for Ph.D. positions in computer vision. If you are interested in my background and have some available positions, please let me know!!!
 - 🔭 I’m currently working as an intern at SenseTime Research started from 2022.3, supervised by [Jifeng Dai](https://jifengdai.org/) and [Yueqi Duan](https://duanyueqi.github.io/).
 <!-- - and [Xizhou Zhu](https://scholar.google.com.hk/citations?user=02RXI00AAAAJ&hl=zh-CN). -->
--  Before that I worked as an intern in the Video Group at Megvii Research from 2021.4 to 2022.2. During the internship, I focused on the self-supervised video representation learning.
+- 😄 Before that I worked as an intern in the Video Group at Megvii Research from 2021.4 to 2022.2. During the internship, I focused on the self-supervised video representation learning.
 - 🖋️ If you have any question about computer vision or deep learning, please feel free to contact me.
 
-tianfr@stu.xjtu.edu.cn
+- 📫 tianfr@stu.xjtu.edu.cn
 
 
