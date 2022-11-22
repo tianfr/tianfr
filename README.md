@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <!--### Stay Hungry, Stay Foolish.-->
 
 
-- Here is my [Profile](https://tianfr.github.io/about/).
+- Here is my [Profile](https://tianfr.github.io/).
 
 - 🤔 I’m looking for Ph.D. positions in computer vision. If you are interested in my background and have some available positions, please let me know!!!
 - 🔭 I’m currently working as an intern at Shanghai AI Laboratory (previously at SenseTime Research, 2022.3-2022.6) and Tsinghua University started from 2022.3, supervised by [Jifeng Dai](https://jifengdai.org/) and [Yueqi Duan](https://duanyueqi.github.io/). I focus on 3D new view synthesis now and do some exciting things under their supervision.
